@@ -6,7 +6,7 @@ export default new Router({
   base: process.env.BASE_URL,
   routes: [
     {
-      path: '/app1',
+      path: '/vue_app1',
       name: 'home',
       component: Home
     },

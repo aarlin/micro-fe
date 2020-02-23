@@ -1,3 +1,3 @@
 import { setPublicPath } from 'systemjs-webpack-interop'
 
-setPublicPath('app1')
+setPublicPath('vue_app1')
