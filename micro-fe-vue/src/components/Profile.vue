@@ -8,10 +8,9 @@
 
 <script>
   export default {
-    props: ['name'],
-    data: () => (
-      { }
-    )
+    data: {
+      name: 'Chris'
+    }
   }
 </script>
 

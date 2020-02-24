@@ -20,6 +20,7 @@ function setupVueContainer(props) {
         vueContainer.removeChild(vueContainer.children[0]);
     }
     vueContainer.appendChild(vueEl);
+    console.log(vueContainer);
 }
 
 function setupReactContainer(props) {
